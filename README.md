@@ -4,7 +4,7 @@ I am working on a data visualization project from February. This data visualizat
 
 Here are the steps in the process of making this visualization:
 
-1. [Choose the topic](Choose a topic)
+1. [Choose the topic](https://github.com/zachpino/id_proto)
 2. Find data bases that fit into my topic
 3. Play with visual elements
 4. Useing HTML, CSS, D3 to code the visualization
