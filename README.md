@@ -4,7 +4,7 @@ I am working on a data visualization project from February. This data visualizat
 
 Here are the steps in the process of making this visualization:
 
-1. [Choose a topic](Choose a topic.md)
+1. [Choose a topic](Animal-Organization-Activities-on-Twitter/Choose a topic.md)
 2. Find data bases that fit into my topic
 3. Play with visual elements
 4. Useing HTML, CSS, D3 to code the visualization
