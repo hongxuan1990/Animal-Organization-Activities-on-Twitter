@@ -1,6 +1,7 @@
 
 Here is the structure I used in my code. A index.html
-'''
+
+```
 <head>
 	<title>Title</title>
 	<link href="reset.css" rel="stylesheet">
@@ -13,4 +14,4 @@ Here is the structure I used in my code. A index.html
       		<script src="viz.js"></script>     
     	</div>
 </body>
-'''
+```
