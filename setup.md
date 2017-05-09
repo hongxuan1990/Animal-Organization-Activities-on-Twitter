@@ -5,7 +5,7 @@ Here is the structure I used in my code. A index.html
 <head>
 	<title>Title</title>
 	<link href="reset.css" rel="stylesheet">
- 	<link href="mainstyle.css" rel="stylesheet">
+ 	<link href="style.css" rel="stylesheet">
 </head>
 
 <body>
@@ -15,3 +15,5 @@ Here is the structure I used in my code. A index.html
     	</div>
 </body>
 ```
+[reset.css](reset.css) helps me to clean the default style.
+viz.js is the D3 file that contains the data visualization.
