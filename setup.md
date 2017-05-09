@@ -1,7 +1,6 @@
 
 Here is the structure I used in my code. A index.html
-<!DOCTYPE html>
-<html>
+
 <head>
 	<title>Title</title>
 
@@ -20,4 +19,4 @@ Here is the structure I used in my code. A index.html
     </div>
 
 </body>
-</html>
+
