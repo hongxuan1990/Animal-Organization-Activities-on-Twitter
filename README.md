@@ -4,6 +4,6 @@ I am working on a data visualization project from February. This data visualizat
 
 Here are the steps in the process of making this visualization:
 
-1. Find data bases that fit into my topic
-2. [Play with visual elements](data.mp)
+1. [Find data bases that fit into my topic](data.mp)
+2. [Play with visual elements](visualization.mp)
 3. Useing HTML, CSS, D3 to code the visualization
