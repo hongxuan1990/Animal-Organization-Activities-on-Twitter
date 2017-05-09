@@ -14,6 +14,9 @@ shp2json cb_2015_state_500k.shp -o us.json to convert your file.
 The code I used to draw the map in the d3 is
 
 ```
+ var width = 1000;
+    var height = 605;
+
  var projection = d3.geoAlbersUsa()
     .translate([width/2,height/2])
     .scale(width)
