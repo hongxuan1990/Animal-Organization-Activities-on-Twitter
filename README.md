@@ -6,4 +6,4 @@ Here are the steps in the process of making this visualization:
 
 1. [Find data bases that fit into my topic](data.md)
 2. [Play with visual elements](visualization.md)
-3. Useing HTML, CSS, D3 to code the visualization
+3. [Useing HTML, CSS, D3 to code the visualization](code.md)
