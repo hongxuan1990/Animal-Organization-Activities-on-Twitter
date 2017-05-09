@@ -1,10 +1,9 @@
 # Animal-Organization-Activities-on-Twitter
 
-I am working on a data visualization project from February. This data visualization aims to demonstrate animal organizations activities on the Twitter to to answer those questions: What happens after those tweets are post? How many people do pay attention to those tweets? How big influrence have those tweets? What are the beneficial factors for increasing audiences? 
+I am working on a data visualization project from February. This data visualization aims to tell audiences stray animal safety levels of different states in the United States. In order to do this, it demonstrates the adoption rates of different state in 2014. It also shows animal tweets and their sentiment for animals.
 
 Here are the steps in the process of making this visualization:
 
-1. [Choose a topic](topic/Choose a topic.md)
-2. Find data bases that fit into my topic
-3. Play with visual elements
-4. Useing HTML, CSS, D3 to code the visualization
+1. Find data bases that fit into my topic
+2. Play with visual elements
+3. Useing HTML, CSS, D3 to code the visualization
