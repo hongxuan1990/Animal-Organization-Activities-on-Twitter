@@ -16,7 +16,9 @@ The code I used to draw the map in the d3 is
 ```
  var width = 1000;
  var height = 605;
-
+ 
+ //set up our projection (like a scale, but for two values!)
+ //var projection = d3.geoMercator()
  var projection = d3.geoAlbersUsa()
     .translate([width/2,height/2])
     .scale(width)
