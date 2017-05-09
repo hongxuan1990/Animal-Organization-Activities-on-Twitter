@@ -1,4 +1,4 @@
-The most important thing after I had initial idea what was the topic was to find data base. There are many data available out of the world but finding an appropriate one is not easy. Here are some source I looked at:
+The most important thing after I had initial idea what was the topic was to find a data set. There are many data available out of the world but finding an appropriate one is not easy. Here are some source I looked at:
 
 Links:
 
