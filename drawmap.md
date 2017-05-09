@@ -1,5 +1,8 @@
 
-I downloaded the map from the [Natural Earth](http://www.naturalearthdata.com/). There were various map files and I chose the Mediam Scale Data - Cultural because it used the cities, states as the boundary and had enough details I needed. The file was the .shp so I had to conver it to a .json. Open the terminal and enter: shp2json cb_2015_state_500k.shp -o us.json to convert your file. 
+I downloaded the map from the [Natural Earth](http://www.naturalearthdata.com/). There were various map files and I chose the Mediam Scale Data - Cultural because it used the cities, states as the boundary and had enough details I needed. The file was the .shp so I had to conver it to a .json. 
+
+Open the terminal and enter: 
+shp2json cb_2015_state_500k.shp -o us.json to convert your file. 
 
 The code I used to draw the map in the d3 is:
  var projection = d3.geoAlbersUsa()
