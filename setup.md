@@ -1,11 +1,12 @@
 
-Here is the structure I used in my code. A index.html:
+Here is the structure I used in my code. A index.html
 
 <head>
 	<title>Title</title>
 	<link href="reset.css" rel="stylesheet">
  	<link href="mainstyle.css" rel="stylesheet">
 </head>
+
 <body>
 	<div id="viz">
       		<script src="https://d3js.org/d3.v4.min.js"></script>     
